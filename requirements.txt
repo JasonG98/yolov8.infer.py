@@ -1,0 +1,5 @@
+opencv-python
+openvino
+onnxruntime
+pillow
+numpy
